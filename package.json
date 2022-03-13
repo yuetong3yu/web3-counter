@@ -6,5 +6,8 @@
   "repository": "https://github.com/yuetong3yu/web3-counter.git",
   "author": "yuetong3yu <yuetong3yu@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "hardhat": "^2.9.2"
+  }
 }
