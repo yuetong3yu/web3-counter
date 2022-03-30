@@ -1,0 +1,9 @@
+{
+  "name": "web3-counter",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/yuetong3yu/web3-counter.git",
+  "author": "yuetong3yu <yuetong3yu@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
